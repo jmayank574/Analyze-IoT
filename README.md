@@ -54,4 +54,6 @@ This project demonstrates an end-to-end real-time data pipeline for IoT smart me
 
 ![Smartmeter Architecture](https://github.com/user-attachments/assets/e0628d45-b91c-484e-83fe-734c737f988c)
 
+## Link to IOT Device Simulator 
 
+https://github.com/nilendra1988/IOTProject
